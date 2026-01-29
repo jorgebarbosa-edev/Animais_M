@@ -1,0 +1,299 @@
+@import url('https://fonts.googleapis.com/css2?family=Metamorphous&family=Ubuntu:wght@300;400;500;700&display=swap');
+
+:root {
+    --font01:"Metamorphous", serif;
+    --font02:"Ubuntu", sans-serif;
+}
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+margin: 0 auto;
+
+}
+
+header > h1{
+    font-family: var(--font01);
+    color: #D4AF37;
+    text-align: center;
+    background-color:#1A1A1B ;
+    padding-top: 20px;
+}
+
+nav{
+background-color:#1A1A1B ;
+padding: 50px;
+text-align: center;
+}   
+
+nav > a{
+    color: #F5F5DC;
+    text-decoration: none;
+    padding-right: 20px;
+    font-family: var(--font02);
+}
+
+nav > a:hover{
+    color: #f4f4c7;
+    background-color: #4b4b4d ;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 20px;
+    transition-duration: 0.5s;
+}
+
+main > .introduction > H1{
+    font-family: var(--font01);
+    color: #D4AF37;
+    text-align: center;
+    padding: 20px;
+}
+
+main > .introduction{
+    color: white;
+    font-size: 18px;
+    text-indent: 20px;
+    padding-top: 15px;
+    padding: 15px;
+}
+
+main > .introduction{
+ background-color: #2F2F2F;
+}
+
+p{
+    font-family: var(--font02);
+    padding: 10px 10px;
+    text-indent: 20px;
+    font-size: 19px;
+}
+
+
+#egipcios{
+    background-color: #FDF5E6;
+}
+
+#egipcios > h2{
+    text-align: center;
+    background-image: linear-gradient(to right, transparent, #ffe3b2, transparent);
+    color: #c09056;
+    padding: 20px;
+    margin: 20px 0px ;
+    font-family: var(--font01);
+}
+
+#egipcios > h3{
+ text-align: center;
+    background-image: linear-gradient(to right, transparent, #ffe3b2, transparent);
+    color: #c09056;
+    padding: 20px;
+    margin: 20px 0px ;
+    font-family: var(--font01);
+}
+
+#egipcios > p > a {
+    text-decoration: none;
+    color: #003681;
+}
+
+#egipcios > p > mark{
+    background-color: #40E0D0;
+    border-radius: 5px;
+}
+
+#egipcios > picture > img {
+    display: block;
+    margin: auto;
+    background-color: #c09056;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+#nordicos > h2, h3{
+    text-align: center;
+    background-image: linear-gradient(to right, transparent, #c0d1ee, transparent);
+    color: #4682B4;
+    padding: 20px;
+    margin: 20px 0px ;
+    font-family: var(--font01);
+}
+
+#nordicos > picture > img {
+    display: block;
+    margin: auto;
+    background-color: #003681;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+#nordicos > p > a {
+    text-decoration: none;
+    color: #8B0000;
+}
+
+#nordicos > p > mark{
+    background-color: #A9A9A9;
+    border-radius: 5px;
+}
+
+#nordicos > p > mark > a{
+    background-color: #A9A9A9;
+    border-radius: 5px;
+    text-decoration: none;
+    color: #8B0000;
+}
+
+#nordicos{
+    background-color: #E5E9F0;
+}
+
+#gregos{
+background-color: #F4F7F9;
+}
+
+#gregos > p{
+    color:#2F2F2F ;
+}
+
+#gregos > h2 {
+    text-align: center;
+    background-image: linear-gradient(to right, transparent, #b4b6b7, transparent);
+    color: #708238;
+    padding: 20px;
+    margin: 20px 0px ;
+    font-family: var(--font01);
+}
+
+#gregos > h3{
+    text-align: center;
+    background-image: linear-gradient(to right, transparent, #b4b6b7, transparent);
+    color: #708238;
+    padding: 20px;
+    margin: 20px 0px ;
+    font-family: var(--font01);
+}
+
+#gregos > p > mark{
+background-color: #708238;
+    border-radius: 5px;
+}
+
+#gregos > picture > img{
+    display: block;
+    margin: auto;
+    background-color: #708238;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+#gregos > p > a{
+    text-decoration: none;
+    color: #00517f;
+}
+
+#gregos > p > mark > a{
+    text-decoration: none;
+    color: #00517f;
+}
+
+#japonesa{
+    background-color: #FFFBF5;
+}
+
+#japonesa > h2{
+    text-align: center;
+    background-image: linear-gradient(to right, transparent, #e1ded9, transparent);
+    color: #DDA0DD;
+    padding: 20px;
+    margin: 20px 0px ;
+    font-family: var(--font01);
+}
+
+#japonesa > h3{
+    text-align: center;
+    background-image: linear-gradient(to right, transparent, #e1ded9, transparent);
+    color: #DDA0DD;
+    padding: 20px;
+    margin: 20px 0px ;
+    font-family: var(--font01);
+}
+
+#japonesa > p > mark{
+background-color: #FFD700;
+    border-radius: 5px;
+}
+
+#japonesa > p > a{
+    text-decoration: none;
+    color: #D32F2F;
+}
+
+#japonesa > p > mark > a{
+    text-decoration: none;
+    color: #D32F2F;
+}
+
+#japonesa > picture > img{
+    display: block;
+    margin: auto;
+    background-color: #DDA0DD;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+#maias{
+    background-color:#F0F2EB ;
+}
+
+#maias > h2{
+    text-align: center;
+    background-image: linear-gradient(to right, transparent, #989a94, transparent);
+    color: #FFD300;
+    padding: 20px;
+    margin: 20px 0px ;
+    font-family: var(--font01);
+}
+
+#maias > h3{
+    text-align: center;
+    background-image: linear-gradient(to right, transparent, #989a94, transparent);
+    color: #FFD300;
+    padding: 20px;
+    margin: 20px 0px ;
+    font-family: var(--font01);
+}
+
+#maias > p > mark{
+background-color: #708090;
+    border-radius: 5px;
+}
+
+#maias > p > a{
+    text-decoration: none;
+    color: #00A86B;
+}
+
+
+#maias > picture > img{
+    display: block;
+    margin: auto;
+    background-color: #00A86B;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+
+aside{
+    color: #D4AF37;
+    text-align: center;
+    background-color:#424244;
+
+}
+
+footer{
+     background-color:#1A1A1B;
+      color: #D4AF37;
+    text-align: center;
+}

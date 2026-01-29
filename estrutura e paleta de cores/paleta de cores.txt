@@ -1,0 +1,47 @@
+| Navbar (Fundo) | `#1A1A1B` | Grafite profundo (quase preto). |
+| H1 (Títulos Principais) | `#D4AF37` | Ouro envelhecido metálico. |
+| Navbar (Texto/Links) | `#F5F5DC` | Bege Bege "Bege-Papiro". |
+
+ 🏺 Mitologia Egípcia
+
+Parágrafos: `#3D2B1F` (Marrom terra queimada)
+Subtítulos: `#C19A6B` (Ouro areia)
+Links: `#0047AB` (Azul Lápis-Lazúli)
+Listas e Marcações: `#40E0D0` (Turquesa egípcia)
+
+ ⚡ Mitologia Grega
+
+
+Parágrafos: `#2F2F2F` (Cinza antracite)
+Subtítulos: `#708238` (Verde Oliva clássico)
+Links: `#0077BE` (Azul Marinho Mediterrâneo)
+Listas e Marcações: `#CD7F32` (Bronze polido)
+
+ ❄️ Mitologia Nórdica
+
+Parágrafos: `#2E3440` (Cinza gelado profundo)
+Subtítulos: `#4682B4` (Azul aço das espadas)
+Links: `#8B0000` (Vermelho sangue rúnico)
+Listas e Marcações: `#A9A9A9` (Prata envelhecida)
+
+🌸 Mitologia Japonesa
+
+Parágrafos: `#1C1C1C` (Preto Nanquim)
+Subtítulos: `#DDA0DD` (Lavanda/Sakura suave)
+Links: `#D32F2F` (Vermelho Cinábrio/Torii)
+Listas e Marcações: `#FFD700` (Ouro folheado)
+
+🐆 Mitologia Maia
+
+Parágrafos: `#4B3621` (Cacau escuro)
+Subtítulos: `#FFD300` (Amarelo Milho sagrado)
+Links: `#00A86B` (Verde Jade profundo)
+Listas e Marcações: `#708090` (Cinza pedra de pirâmide)
+
+Background de cada mitologia
+
+ Egípcia  `#FDF5E6`  Old Lace: Lembra o tom do papiro seco e das areias do deserto sob o sol. 
+ Grega  `#F4F7F9`  Cloud White: Um branco levemente azulado que remete ao mármore e ao Monte Olimpo. 
+ Nórdica  `#E5E9F0`  Frost Grey: Um tom frio e acinzentado, evocando o clima de Midgard e das montanhas de gelo. 
+ **Japonesa `#FFFBF5`  Washi Paper: Um creme muito claro e limpo, inspirado no papel artesanal japonês. 
+ Maia  `#F0F2EB` Limestone: Um tom de pedra clara com um toque de verde musgo, lembrando as pirâmides na selva. 
