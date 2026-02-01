@@ -26,6 +26,7 @@ nav{
 background-color:#1A1A1B ;
 padding: 50px;
 text-align: center;
+position: relative;
 }   
 
 nav > a{
@@ -109,6 +110,7 @@ p{
     background-color: #c09056;
     padding: 20px;
     border-radius: 10px;
+    
 }
 
 #nordicos > h2, h3{
